@@ -22,4 +22,4 @@ Combined the files require \~ 750mb of storage.
 
 After the code is finished, you will have a new set of sub-folders within the `cohort-documentation` folder that contain the PDFs.
 
-This code was test on 27 November 2024. If you have any issues using this code, please contact me at [liam.wright\@ucl.ac.uk](mailto:liam.wright@ucl.ac.uk).
+This code was tested on 27 November 2024. If you have any issues using this code, please contact me at [liam.wright\@ucl.ac.uk](mailto:liam.wright@ucl.ac.uk).
