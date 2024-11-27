@@ -4,9 +4,9 @@ This repository contains code to download documentation (PDFs) from CLS's four e
 
 The code places the PDFs into sub-folders for each study-sweep. Where a document pertains to multiple sweeps, the PDF is placed in a separate `xwave` folder. Where a document pertains to more than one cohort (e.g., the Missing Data Handling Guide) the PDF is placed in a separate `All` sub-folder.
 
-The code also renames the PDFs to the more user-friendly titles given on the CLS website.
+The code also renames the PDFs to the more user-friendly titles given on the CLS website. Combined the files require \~ 750mb of storage.
 
-Combined the files require \~ 750mb of storage.
+To use the code you will need R (<https://cran.r-project.org/>) and RStudio (<https://posit.co/download/rstudio-desktop/>) installed. You will only need to use R and RStudio once.
 
 ## Instructions
 
